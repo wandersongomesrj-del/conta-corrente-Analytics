@@ -5,7 +5,7 @@ Projeto desenvolvido para analisar transações bancárias de um arquivo CSV, re
 ## 📊 Visualização de Dados (Looker Studio)
 Abaixo, a representação visual dos gastos consolidada através do Looker Studio:
 
-![Dashboard Financeiro](dashboard_financeiro.png)
+[![Dashboard Financeiro](dashboard_financeiro.png)](https://lookerstudio.google.com/s/pWGXRKNLbug)
 
 ## 🛠️ Tecnologias
 - Python 3.12
