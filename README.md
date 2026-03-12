@@ -3,7 +3,7 @@
 Projeto desenvolvido para analisar transações bancárias de um arquivo CSV, realizando limpeza de dados, cálculos de saldo e geração de gráficos de gastos.
 
 ## 📊 Visualização de Dados (Looker Studio)
-Abaixo, a representação visual dos gastos consolidada através do Looker Studio:
+Abaixo, a representação visual dos gastos consolidada através do Looker Studio(Clicando na imagem, você será direcionado para Dashboard do Looker):
 
 [![Dashboard Financeiro](dashboard_financeiro.png)](https://lookerstudio.google.com/s/pWGXRKNLbug)
 
